@@ -4,7 +4,7 @@
 
 ## Developer
 
-- 🔭 I just launched my first hosting, [chynodes] hosting
+- 🔭 I just launched my first hosting, [Chynodes] Hosting
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -48,4 +48,4 @@
 [youtube]: #
 [instagram]: #
 [linkedin]: #
-[chynodes]: https://chynodes.xyz/
+[Chynodes]: https://chynodes.xyz/
