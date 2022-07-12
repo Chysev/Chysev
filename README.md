@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[website]: https://me.chysev.xyz/
+[website]: https://github.com/Chysev
 [twitter]: #
 [youtube]: #
 [instagram]: #
