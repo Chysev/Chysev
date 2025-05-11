@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chysev&label=Profile%20views&color=0e75b6&style=flat" alt="Chysev" /> </p>
 
-- 🔭 I’m currently at **[Codebility](https://codebility.tech)**
+- 🔭 I’m currently at **[Socia](https://socia.ph/)**
 
 - 🌱 I’m currently learning about **Machine Learning and Building Large Language Model**
 
 - 👯 I’m currently working on **[next-nexus-app](https://github.com/Chysev/next-nexus-app)**
 
-- 👨‍💻 All of my projects are available on **[Porfolio](https://portfolio.chysev.com/)**
+- 👨‍💻 All of my projects are available on **[Porfolio](https://chysev.cloud/)**
 
-- 🥅 2024 Goals: **Focus more on myself and more exposure**
+- 🥅 2025-2030 Goals: **Build high-income DevOps skills, leverage civil engineering knowledge, and start my path to becoming a millionaire**
 
-- 📫 How to reach me: **Johnlayda92@gmail.com**
+- 📫 How to reach me: **Johnlayda@chysev.cloud**
 
 - 📄 Learn about my experiences: **[My Resume](https://github.com/Chysev/Portfolio/blob/main/public/_RESUME-LAYDA.pdf)**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py,zig" alt="John Layda">
+<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py" alt="John Layda">
 </p>
 
 <h3 align="left">Frontend Frameworks:</h3>
