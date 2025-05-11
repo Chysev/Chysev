@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **Johnlayda@chysev.cloud**
 
-- 📄 Learn about my experiences: **[My Resume](https://github.com/Chysev/Portfolio/blob/main/public/_RESUME-LAYDA.pdf)**
+<!-- - 📄 Learn about my experiences: **[My Resume](https://github.com/Chysev/Portfolio/blob/main/public/_RESUME-LAYDA.pdf)** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
