@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Machine Learning and Building Large Language Model**
 
-- 👯 I’m currently working on **[next-nexus-app](https://github.com/Chysev/next-nexus-app)**
+- 👯 I’m currently working on **[chydev-node-boilerplate](https://github.com/Chysev/chydev-node-boilerplate)**
 
 - 👨‍💻 All of my projects are available on **[Porfolio](https://chysev.cloud/)**
 
